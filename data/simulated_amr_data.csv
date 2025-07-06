@@ -1,0 +1,10 @@
+Country,Pathogen,Resistance_Level,Sample_Date,Location,Isolate_ID
+Nigeria,Klebsiella pneumoniae,High,2024-05-12,Lagos,KP-NG-001
+Kenya,Acinetobacter baumannii,Medium,2024-05-13,Nairobi,AB-KE-002
+Ghana,Salmonella enterica,Low,2024-05-15,Accra,SE-GH-003
+Nigeria,Klebsiella pneumoniae,High,2024-05-17,Kano,KP-NG-004
+Kenya,Salmonella enterica,Medium,2024-05-20,Eldoret,SE-KE-005
+Ghana,Acinetobacter baumannii,High,2024-05-21,Tamale,AB-GH-006
+Nigeria,Salmonella enterica,Low,2024-05-23,Ibadan,SE-NG-007
+Kenya,Klebsiella pneumoniae,Medium,2024-05-25,Mombasa,KP-KE-008
+Ghana,Klebsiella pneumoniae,High,2024-05-26,Kumasi,KP-GH-009
