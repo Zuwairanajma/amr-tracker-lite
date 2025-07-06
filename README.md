@@ -1,6 +1,24 @@
 # amr-tracker-lite
 Simulated Genomic Surveillance Dashboard for AMR in Africa
+---
 
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+---
+
+## 🚀 How to Run
+1. Clone the repo  
+   `git clone https://github.com/Zuwairanajma/amr-tracker-lite.git`
+2. Navigate into the project folder  
+   `cd amr-tracker-lite`
+3. Create & activate a virtual environment  
+   `python -m venv env`  
+   `source env/Scripts/activate` *(Windows)*  
+4. Install dependencies  
+   `pip install -r requirements.txt`
+5. Launch the notebook  
+   `jupyter notebook amr_dashboard.ipynb`
 
 ---
 
@@ -36,9 +54,12 @@ The `simulated_amr_data.csv` file includes:
 
 This project was built as a fast prototype under mentorship guidance, to support a larger research proposal on **AI-Driven Genomic Surveillance of Drug-Resistant Pathogens in Africa**.
 
-It draws inspiration from:
-- Prof. Tulio de Oliveira's genomic work at CERI
-- WHO’s GLASS AMR surveillance strategy
+
+It draws inspiration from:  
+- [Prof. Tulio de Oliveira](https://www.krisp.org.za/tulio.asp) and his groundbreaking genomic work at [CERI](https://www.krisp.org.za/ceri.asp)  
+
+- WHO’s [GLASS](https://www.who.int/initiatives/glass) AMR surveillance strategy  
+
 - Real-world gaps in cross-border bioinformatics capability in Africa
 
 ---
