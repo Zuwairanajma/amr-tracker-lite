@@ -18,9 +18,19 @@ The `simulated_amr_data.csv` file includes:
 
 ## 📈 Visual Preview
 
-> ![Dashboard Preview Placeholder](https://via.placeholder.com/800x400?text=Preview+Dashboard+Screenshot)
+> #### 🌍 Country-Wise Resistance Overview
+![Dashboard View 1](dashboard_preview1.png)
+
+#### 🧪 Resistance Trends Over Time
+![Dashboard View 2](dashboard_preview2.png)
+
+#### 🧬 Pathogen Breakdown by Drug Class
+![Dashboard View 3](dashboard_preview3.png)
+
 
 ---
+
+🔗 **[👉 View Full Interactive Notebook on NBViewer](https://nbviewer.org/github/Zuwairanajma/amr-tracker-lite/blob/master/amr_dashboard.ipynb)**
 
 ## 💡 Inspiration
 
